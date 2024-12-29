@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NetWave</id>
+    <version>1.0.0</version>
+    <authors>Mostafa Lotfy</authors>
+    <description>NetWave simplifies HTTP requests for .NET backend developers, with detailed logs and an intuitive API.</description>
+    <tags>HTTP NetWave REST Networking</tags>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.8.1">
+        <dependency id="System.Net.Http" version="4.3.4" exclude="Build,Analyzers" />
+        <dependency id="System.Text.Json" version="8.0.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net8.0">
+        <dependency id="System.Net.Http" version="4.3.4" exclude="Build,Analyzers" />
+        <dependency id="System.Text.Json" version="8.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.IO" targetFramework=".NETFramework4.8.1" />
+      <frameworkAssembly assemblyName="System.Net.Http" targetFramework=".NETFramework4.8.1" />
+      <frameworkAssembly assemblyName="System.Runtime" targetFramework=".NETFramework4.8.1" />
+      <frameworkAssembly assemblyName="System.Security.Cryptography.Algorithms" targetFramework=".NETFramework4.8.1" />
+      <frameworkAssembly assemblyName="System.Security.Cryptography.Encoding" targetFramework=".NETFramework4.8.1" />
+      <frameworkAssembly assemblyName="System.Security.Cryptography.Primitives" targetFramework=".NETFramework4.8.1" />
+      <frameworkAssembly assemblyName="System.Security.Cryptography.X509Certificates" targetFramework=".NETFramework4.8.1" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="D:\Mustafa Lotfy\portfolio\NetWavePackage\NetWave\bin\Debug\net481\NetWave.dll" target="lib\net481\NetWave.dll" />
+    <file src="D:\Mustafa Lotfy\portfolio\NetWavePackage\NetWave\bin\Debug\net8.0\NetWave.dll" target="lib\net8.0\NetWave.dll" />
+  </files>
+</package>

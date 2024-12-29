@@ -1,0 +1,11 @@
+D:\Mustafa Lotfy\portfolio\NetWavePackage\NetWave\bin\Debug\net8.0\NetWave.deps.json
+D:\Mustafa Lotfy\portfolio\NetWavePackage\NetWave\bin\Debug\net8.0\NetWave.dll
+D:\Mustafa Lotfy\portfolio\NetWavePackage\NetWave\bin\Debug\net8.0\NetWave.pdb
+D:\Mustafa Lotfy\portfolio\NetWavePackage\NetWave\obj\Debug\net8.0\NetWave.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mustafa Lotfy\portfolio\NetWavePackage\NetWave\obj\Debug\net8.0\NetWave.AssemblyInfoInputs.cache
+D:\Mustafa Lotfy\portfolio\NetWavePackage\NetWave\obj\Debug\net8.0\NetWave.AssemblyInfo.cs
+D:\Mustafa Lotfy\portfolio\NetWavePackage\NetWave\obj\Debug\net8.0\NetWave.csproj.CoreCompileInputs.cache
+D:\Mustafa Lotfy\portfolio\NetWavePackage\NetWave\obj\Debug\net8.0\NetWave.dll
+D:\Mustafa Lotfy\portfolio\NetWavePackage\NetWave\obj\Debug\net8.0\refint\NetWave.dll
+D:\Mustafa Lotfy\portfolio\NetWavePackage\NetWave\obj\Debug\net8.0\NetWave.pdb
+D:\Mustafa Lotfy\portfolio\NetWavePackage\NetWave\obj\Debug\net8.0\ref\NetWave.dll
